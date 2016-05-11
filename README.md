@@ -22,6 +22,12 @@ Naming the outputs of segmentation scripts is difficult. Often the boundaries be
 
 There are multiple commercial projects today that create and sell segmentation data to businesses and governments that make strategic decisions from what they contain. We believe that process deserves more transparent processes, where users can understand as clearly as possible the methodology of creating segments. That process can only improve through an open dialog and increased pace of research.
 
+## Current segments 
+
+### USCensus based segments 
+
+Years 2011, 2014 - generated using the method described in 
+
 ## License
 
 Code is available under BSD3. See [LICENSE](LICENSE).
