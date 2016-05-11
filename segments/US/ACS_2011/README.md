@@ -1,7 +1,7 @@
 # US census - ACS - 2011 - census tract
 
 
-<iframe width="100%" height="520" frameborder="0" src="https://observatory.cartodb.com/viz/5de68840-16ef-11e6-bf4f-0ea31932ec1d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+![country](https://observatory.cartodb.com/api/v1/map/static/named/tpl_5de68840_16ef_11e6_bf4f_0ea31932ec1d/600/400.png)
 
 These segments are derived from the 2011 US Census data and clustered using the approach in 
 [Spielman & Singleton](http://dx.doi.org/10.1080/00045608.2015.1052335)
@@ -17,7 +17,7 @@ These segments are derived from the 2011 US Census data and clustered using the 
 
 
 # Segments available
-[Mappings]('mapping.json') | [Segments]('segments.csv') | [CartoDB]([Segments]('segments.csv') |[Script]('scripts/')
+[Mappings]('./mapping.json') | [data]('./segments.csv') | [CartoDB](https://observatory.cartodb.com/tables/spielman_singleton_demographics/public) |[Script]('./scripts/')
  
 
 The segments are broken down in to two levels, x10 and x55 with the x55 clusters being 
