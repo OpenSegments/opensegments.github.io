@@ -4,7 +4,7 @@ A growing collection of demographic and socioeconomic classifications of populat
 
 This repository is a collection of classification scripts and references to their inputs.
 
-- See [openaddresses.io](http://blog.cartodb.com/open-segments/) for more information.
+- See [blog.cartodb.com/open-segments](http://blog.cartodb.com/open-segments/) for more information.
 
 ## Contributing segment names
 
@@ -20,4 +20,8 @@ Naming the outputs of segmentation scripts is difficult. Often the boundaries be
 
 ## Why open segments?
 
-There are multiple commercial projects today that create and sell segmentation data to businesses and governments that make strategic decisions from what they contain. We believe that process deserves more transparent processes, where users can understand as clearly as possible the methodology of creating segments. That process can only improve through an open dialog and increased pace of research. 
+There are multiple commercial projects today that create and sell segmentation data to businesses and governments that make strategic decisions from what they contain. We believe that process deserves more transparent processes, where users can understand as clearly as possible the methodology of creating segments. That process can only improve through an open dialog and increased pace of research.
+
+## License
+
+Code is available under BSD3. See [LICENSE](LICENSE).
